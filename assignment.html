@@ -1,0 +1,202 @@
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>HTML Practice Page</title>
+
+    <style>
+    
+    .h1 {
+            text-align: center;
+            font-size: 48px;
+            color: darkblue;
+            text-shadow: 2px 2px 6px gray;
+            transition: color 0.3s;
+        }
+
+    .h1:hover {
+            color: maroon;
+        }
+
+    .h3 {
+    color: rgb(110, 139, 164);
+    letter-spacing: 2px;
+    opacity: 1;
+    text-align: center;
+    margin-bottom: 25px;
+}
+    
+    .intro {
+    background-color: wheat;
+    padding: 20px;
+    border-radius: 12px;
+    line-height: 1.7;
+    margin-bottom: 20px;
+}
+    .important {
+    border-left: 6px solid #b91c1c;
+    background-color: #fef2f2;
+    padding: 16px;
+    margin-top: 20px;
+    transform: rotate(-1deg);
+    font-weight: bold;
+}
+    hr {
+    width: 120px;
+    height: 5px;
+    background-color: steelblue;
+    border: none;
+    border-radius: 10px;
+    margin: 20px auto;
+}
+    pre {
+    background-color: #020617;
+    color: #22c55e;
+    padding: 20px;
+    border-radius: 12px;
+    margin-bottom: 25px;
+    font-family: monospace;
+}
+    .points {
+    list-style: none;
+    background-color: #f8fafc;
+    padding: 20px;
+    border-radius: 12px;
+    margin-bottom: 20px;
+}
+
+.points li {
+    padding: 8px 0;
+}
+
+    #steps {
+    list-style-type: upper-roman;
+    font-weight: bold;
+    margin-bottom: 25px;
+
+}
+
+#steps li {
+    margin-bottom: 10px;
+}
+
+    .link {
+    text-decoration: none;
+    color: #555;
+}
+
+.link:hover {
+    text-decoration: underline;
+    color: darkblue;
+}
+    .card {
+    border: 1px solid #ddd;
+    padding: 15px;
+    border-radius: 12px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    margin-top: 15px;
+}
+    .accent {
+    color: purple;
+    font-size: 18px;
+    font-weight: bold;
+}
+    .btn {
+        background-color: lightgreen;
+        padding: 12px 25px;        
+        border-radius: 12px;       
+        border: none;              
+        cursor: pointer;           
+        font-size: 16px;           
+        font-weight: bold;
+    }
+
+    .btn:hover {
+        background-color: #00cc66;
+        transform: scale(1);
+        box-shadow: 0 4px 12px rgba(0,204,102,0.3);
+    }
+    .footer {
+    font-size: 11px;
+    color: #94a3b8;
+    text-align: center;
+    margin-top: 40px;        
+}
+    body {
+    margin: 0;
+    padding: 0;
+    background-color: #f1f5f9;     
+    font-family: 'Segoe UI', Arial, sans-serif;
+    color: #1f2933;
+}
+
+.container {
+    max-width: 850px;
+    margin: 40px auto;
+    padding: 40px 30px;
+    background-color: #ffffff;
+    border-radius: 14px;         
+}
+
+    </style>
+
+</head>
+
+<body>
+    <div class="container">
+
+    <h1 id="heading1">HTML Practice</h1>
+
+    <h3>Introduction to HTML</h3>
+
+    <p class="intro">
+        <b>HTML</b> means <strong>HyperText Markup Language</strong>.<br>
+        It is used to <i>design</i> and <em>structure</em> web pages.
+    </p>
+
+    <p class="important">
+    Important: HTML files must be saved with a .html extension.
+</p>
+
+    <hr>
+
+    <pre>
+HTML keeps text
+    exactly the same
+with spaces
+    and new lines
+    </pre>
+
+    <ul class="points">
+        <li>HTML is simple</li>
+        <li>HTML uses tags</li>
+        <li>HTML builds structure</li>
+    </ul>
+
+    <ol id="steps">
+        <li>Open editor</li>
+        <li>Write HTML code</li>
+        <li>Save and run file</li>
+    </ol>
+
+    <a href="https://www.wikipedia.org" target="_blank" class="link">
+
+        Open Wikipedia
+    </a>
+
+    <div class="card">
+    HTML is a <span class="accent">markup</span> language.
+</div>
+
+
+    <button id="btn">
+    Click Me or Else
+</button>
+
+
+    <footer class="footer">
+    HTML Assignment
+</footer>
+
+</div>
+</body>
+</html>
