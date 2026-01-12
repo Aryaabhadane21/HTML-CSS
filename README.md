@@ -14,3 +14,16 @@ CSS Box model practice 12 tasks output screenshot
 <img width="1710" height="1112" alt="Screenshot 2026-01-11 at 10 18 58 PM" src="https://github.com/user-attachments/assets/ae617ac2-f809-426c-a9ea-e91629d9f556" />
 
 <img width="1710" height="1112" alt="Screenshot 2026-01-11 at 10 19 26 PM" src="https://github.com/user-attachments/assets/12b589f1-f303-4f78-96ea-ecc7294d2a96" />
+
+Portfolio website screenshots
+<img width="1710" height="1112" alt="Screenshot 2026-01-12 at 11 37 20 PM" src="https://github.com/user-attachments/assets/92811c2e-6c16-43e2-8dc4-d49b723e876d" />
+
+skills page
+<img width="1710" height="1112" alt="Screenshot 2026-01-12 at 11 37 51 PM" src="https://github.com/user-attachments/assets/bdaadc33-4a10-43a6-8621-4e1a30870ff7" />
+
+projects page
+<img width="1710" height="1112" alt="Screenshot 2026-01-12 at 11 38 19 PM" src="https://github.com/user-attachments/assets/ef62557f-b456-4e1b-b5a9-d330ff2c03c9" />
+
+contact page
+<img width="1710" height="1112" alt="Screenshot 2026-01-12 at 11 39 01 PM" src="https://github.com/user-attachments/assets/ac54f3aa-0dcb-4648-973a-7d679088543c" />
+
