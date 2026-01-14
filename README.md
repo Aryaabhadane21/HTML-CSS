@@ -41,6 +41,12 @@ Alignment assignment output
 
 
 
+HTML Course website
+<img width="1710" height="1112" alt="Screenshot 2026-01-14 at 2 36 12 PM" src="https://github.com/user-attachments/assets/3c2ebc59-da74-4e25-a901-f464952b8f33" />
+
+<img width="1710" height="1112" alt="Screenshot 2026-01-14 at 2 36 29 PM" src="https://github.com/user-attachments/assets/28a9c8c8-3b20-4a64-be8e-ca154487ac61" />
+
+<img width="1710" height="1112" alt="Screenshot 2026-01-14 at 2 36 45 PM" src="https://github.com/user-attachments/assets/8cd6220c-27ac-4a12-b04c-1fc3c454b70a" />
 
 
 
