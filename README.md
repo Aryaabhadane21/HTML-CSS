@@ -54,5 +54,11 @@ Semantic HTML website
 <img width="1702" height="946" alt="Screenshot 2026-01-16 at 8 34 05 PM" src="https://github.com/user-attachments/assets/ef844e8b-8758-42c1-af4f-b5955ab06573" />
 
 
+Isindex unique html tag
+<isindex> was an old HTML tag used to create a single-line text input field for searching.
+Purpose: It allowed users to enter search queries directly on a webpage.
+
+<img width="692" height="476" alt="Screenshot 2026-02-16 at 2 55 01 PM" src="https://github.com/user-attachments/assets/e5eff721-9970-47fa-916c-cf1950a106bf" />
+
 
 
